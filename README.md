@@ -11,4 +11,4 @@ Version : 1.0   Date : 2019.02.19
 
 
 ## 토큰 이코노미
--
+-![token_economy](https://user-images.githubusercontent.com/41232056/52996094-cd280400-345f-11e9-98ca-61fd279e56a4.png)
